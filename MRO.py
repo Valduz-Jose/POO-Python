@@ -13,5 +13,6 @@ class D(B,C):
     
 d=D()
 d.hablar()
+print(D.mro())
 # Sin importar de donde herede da prioridad en orden D->B->C->A 
 # SIempre busca el padre
