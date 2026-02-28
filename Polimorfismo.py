@@ -15,4 +15,4 @@ hacer_sonido(perro)
 
 print(gato.sonido())
 # Se puede hacer de esta manera ya que Python es un 
-# lenguaje de tipado dinamico
+# lenguaje de tipado dinamico 
