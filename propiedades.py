@@ -5,7 +5,7 @@ class Persona:
     self._edad = edad
     
   @property
-  def nombre(self):
+  def nombre(self): 
     return self.__nombre
 # al usar @property, el método se puede llamar como un atributo, sin paréntesis.
   
